@@ -22,7 +22,8 @@ Automatic-repeat-request (ARQ) protocols are widely used in modern data communic
 * Through this mini project I aim to gain in depth knowledge about the inner workings of the data link layer for flow control.
 
 **References:**<br>
-I. F. Akyildiz and W. Liu, "A general analysis technique for ARQ protocol performance in high speed networks," INFOCOM '91. Proceedings. Tenth Annual Joint Conference of the IEEE Computer and Communications Societies. Networking in the 90s., IEEE, Bal Harbour, FL, 1991, pp. 498-507 vol.2. <br>
+I.  Computer Networking: A Top-down Approach (Book by Jim Kurose) <br>
+II. F. Akyildiz and W. Liu, "A general analysis technique for ARQ protocol performance in high speed networks," INFOCOM '91. Proceedings. Tenth Annual Joint Conference of the IEEE Computer and Communications Societies. Networking in the 90s., IEEE, Bal Harbour, FL, 1991, pp. 498-507 vol.2. <br>
 [Click Here](http://ieeexplore.ieee.org/document/147545/) <br>
 
 ## File Structure
